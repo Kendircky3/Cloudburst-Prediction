@@ -1,8 +1,11 @@
 Cloudburst Prediction Project
+
 Project Overview
+
 This project aims to develop a machine learning–based predictive model to identify potential cloudburst events in urban areas within a short (3–6 hour) time window. The work includes data preprocessing, feature engineering, model training, and performance evaluation, with a focus on addressing class imbalance and improving early warning capabilities.
 
 Repository Structure
+
 📁 Miami.ipynb
 This notebook contains the initial data processing and cleaning steps. It focuses on loading and transforming NOAA weather station data from Miami, including:
 
